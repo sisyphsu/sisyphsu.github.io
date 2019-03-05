@@ -143,13 +143,6 @@
     </url>
 
     <url>
-        <loc>https://sulin.me/tags/Java/</loc>
-        <lastmod>2019-03-04T12:01:28.337Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://sulin.me/tags/ZooKeeper/</loc>
         <lastmod>2019-03-04T12:01:28.337Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -200,14 +193,63 @@
 
     <url>
         <loc>https://sulin.me/tags/MySQL/</loc>
-        <lastmod>2019-03-05T05:07:46.933Z</lastmod>
+        <lastmod>2019-03-05T05:56:54.803Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://sulin.me/tags/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</loc>
-        <lastmod>2019-03-05T05:07:46.933Z</lastmod>
+        <lastmod>2019-03-05T05:56:54.803Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://sulin.me/tags/Java/</loc>
+        <lastmod>2019-03-05T07:05:29.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://sulin.me/tags/hexo/</loc>
+        <lastmod>2019-03-05T07:05:29.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://sulin.me/tags/plugin/</loc>
+        <lastmod>2019-03-05T07:05:29.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://sulin.me/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
+        <lastmod>2019-03-05T07:05:29.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://sulin.me/tags/Golang/</loc>
+        <lastmod>2019-03-05T07:05:29.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://sulin.me/tags/React/</loc>
+        <lastmod>2019-03-05T07:05:29.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://sulin.me/tags/Vue/</loc>
+        <lastmod>2019-03-05T07:05:29.887Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
