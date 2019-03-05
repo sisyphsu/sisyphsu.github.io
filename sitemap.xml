@@ -4,17 +4,12 @@
 
     <sitemap>
         <loc>https://sulin.me/post-sitemap.xml</loc>
-        <lastmod>2019-03-04T13:37:33.157Z</lastmod>
+        <lastmod>2019-03-05T05:07:46.933Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://sulin.me/page-sitemap.xml</loc>
         <lastmod>2019-02-28T14:57:56.172Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>https://sulin.me/category-sitemap.xml</loc>
-        <lastmod>2019-03-04T11:52:10.693Z</lastmod>
     </sitemap>
 
     <sitemap>
