@@ -13,6 +13,11 @@
     </sitemap>
 
     <sitemap>
+        <loc>https://sulin.me/category-sitemap.xml</loc>
+        <lastmod>2019-03-04T11:57:57.390Z</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>https://sulin.me/tag-sitemap.xml</loc>
         <lastmod>2019-03-04T11:48:52.003Z</lastmod>
     </sitemap>

@@ -206,13 +206,6 @@
     </url>
 
     <url>
-        <loc>https://sulin.me/tags/Java/</loc>
-        <lastmod>2019-03-05T07:05:29.887Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://sulin.me/tags/hexo/</loc>
         <lastmod>2019-03-05T07:05:29.887Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -221,6 +214,13 @@
 
     <url>
         <loc>https://sulin.me/tags/plugin/</loc>
+        <lastmod>2019-03-05T07:05:29.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://sulin.me/tags/Java/</loc>
         <lastmod>2019-03-05T07:05:29.887Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
